@@ -1,0 +1,28 @@
+name: fitfoxfab
+favicon: null
+layout_spectrum: 0.48495146655477583
+typography_spectrum: 0.4624581898096949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4497115246485919
+  lightness: 0.6255337540060282
+  saturation: 0.23040125845000148
+  rhythmicContrast: 0.1357726992573589
+purpose: []
